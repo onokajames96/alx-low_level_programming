@@ -90,10 +90,8 @@ rd = read(nm, buffer, 1024);
 t = open(argv[2], O_WRONLY | O_APPEND);
 
 } while (rd > 0);
-
 free(buffer);
 close_file(nm);
 close_file(t);
-
 return (0);
 }

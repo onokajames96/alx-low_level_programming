@@ -1,7 +1,10 @@
 # 0x1A. C - Hash tables
-# C
+ C
+
 Algorithm
+
 Data structure
+
 # Resources
 Read or watch:
 
